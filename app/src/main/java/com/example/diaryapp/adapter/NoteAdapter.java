@@ -17,6 +17,7 @@ public class NoteAdapter extends BaseAdapter {
     //    Nim   : 10120130
     //    Nama  : Muhammad Rabbani A
     //    Kelas : IF-4
+    //    RABBANI
 
     private final Context context;
     private ArrayList<HashMap<String, String>> data;
